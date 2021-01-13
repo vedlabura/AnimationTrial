@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B7C753DF-4C75-4BF7-81FF-569274401166}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AnimationTrial",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameLiftServerSDK",
+			"Enabled": true
+		}
+	]
+}
